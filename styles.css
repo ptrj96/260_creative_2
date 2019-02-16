@@ -1,0 +1,25 @@
+/* Global */
+
+html {
+box-sizing: border-box;
+}
+*, *:before, *:after {
+box-sizing: inherit;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  text-align: center;
+}
+
+main {
+  text-align: center;
+}
+
+#gif_results {
+  margin-top: 40px;
+}
